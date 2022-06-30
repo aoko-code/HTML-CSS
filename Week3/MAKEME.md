@@ -37,7 +37,7 @@ Some people love using frameworks, others like being in full control of the CSS.
 
 #### Bootstrap
 
-Bootstrap is probably the most used CSS framework if a framework is being used. Have a look at the following links to know how to use it:
+Bootstrap is probably the most used CSS framework if a framework is being used.they make it easier to style the webpage since you dont have to make styles over and over. Have a look at the following links to know how to use it:
 
 - [Bootstrap 5 Crash Course](https://www.youtube.com/watch?v=4sosXZsdy-s)
 - [Making a complete responsive website using Bootstrap/HTML/CSS](https://www.youtube.com/watch?v=zhllkjYYUVE)
